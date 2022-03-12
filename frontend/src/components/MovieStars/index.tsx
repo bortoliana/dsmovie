@@ -33,7 +33,7 @@ function getFills(score: number) {
       if(fill === 0){
           return <StarEmpty />
       }
-      else if (fill === 0.5){
+      else if (fill === 1){
           return <StarHalf />
       }
         else{
