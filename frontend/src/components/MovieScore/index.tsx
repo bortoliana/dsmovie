@@ -1,5 +1,5 @@
 import MovieStar from "components/MovieStars";
-import './style.css';
+import './styles.css';
 
 
 type Props ={
